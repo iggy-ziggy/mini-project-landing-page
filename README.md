@@ -1,14 +1,17 @@
-# mini-project-landing-page
-# <Mini Project Landing Page>
+# Mini Project Landing Page
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This is a simple landing page made as an in-class project during a coding bootcamp. Its purpose was to practice semantic HTML and CSS styling.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+If you click the contact link in the header, the page will jump down to the Contact Form.
 
 ## Credits
 
+N/A
+
 ## License
+
+MIT License
